@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.MakeMyTrip.MakeMyTripApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.410 s -- in com.example.MakeMyTrip.MakeMyTripApplicationTests
